@@ -2,4 +2,5 @@ streamlit
 requests
 pdfplumber
 python-dotenv
-google-generativeai
+google-genai
+tavily-python
