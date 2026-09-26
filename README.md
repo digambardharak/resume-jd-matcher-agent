@@ -9,6 +9,8 @@ It reads a resume, compares it against a job description using an LLM, scores th
 
 ## What It Does
 
+🔗 **[Try it live](https://resume-jd-matcher-agent-nhrx8arogjw2bgvfneerju.streamlit.app)**
+
 - Upload a resume (PDF) and paste any job description
 - Google Gemini reads both and compares them intelligently — not just keyword matching
 - Get back a match score (0–100), a list of matched skills, a list of missing skills, and a short summary
